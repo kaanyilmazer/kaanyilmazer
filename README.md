@@ -10,7 +10,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kaanyilmazer&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726">
  
 -  👀  I’m interested in .Net
-- 💻 Junior Developer
+- 💻 .Net Developer
 
 
 ## 🌏 Social
